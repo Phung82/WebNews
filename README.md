@@ -5,4 +5,5 @@ MỤC TIÊU
   - Tìm hiểu django framework
   - Tìm hiểu kết nối dự án Django của mình với cơ sở dữ liệu
   - Xây dựng cơ bản hoàn thiện trang web tin tức thể thao
+  - Tìm hiểu cách kiểm thử dự án django và cách viết test case
   - Nghiên cứu vấn đề bảo mật website
