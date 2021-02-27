@@ -1,0 +1,5 @@
+THÔNG TIN ADMIN
+USER: admin 
+pass: admin
+mail: nguyentieuphung82@gmail.com
+---------------------------------
