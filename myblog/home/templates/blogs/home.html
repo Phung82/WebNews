@@ -1,0 +1,74 @@
+{% extends "blogs/base.html" %}
+{% block title %}HOME{% endblock %}
+
+{% block content %}
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('static/img/home-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>SPORT NEWS</h1>
+            <span class="subheading">SPORT NEWS</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+
+ <!--
+  {% if danhsachbaiviet %}
+      {% for item in danhsachbaiviet %}
+          <a href="/baiviet/{{ item.id }}" class="baiviet">
+          <p>
+              <img src="media/{{ item.hinh }}">
+              <div class="tieude"><h3>{{ item.tenbaiviet }}</h3>
+                  <div class="thoigian">{{ item.ngay|date:"d-m-Y" }}</div>
+              </div>
+          </p>
+          </a>
+      {% endfor %}
+  {% endif %}
+-->
+
+  <!-- Main Content -->
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        {% if danhsachbaiviet %}
+        {% for item in danhsachbaiviet %}
+        <div class="post-preview">
+          <a href="/baiviet/{{ item.id }}">
+            <h2 class="post-title">
+              {{ item.tenbaiviet }}
+            </h2>
+            <h3 class="post-subtitle">
+              Problems look mighty small from 150 miles up
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            <a href="#">Start Bootstrap</a>
+            {{ item.ngay|date:"d-m-Y" }}</p>
+        </div>
+        {% endfor %}
+        {% endif %}
+        <hr>
+        <hr>
+
+        <!-- Pager -->
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+
+{% endblock %}
+
+

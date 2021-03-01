@@ -1,0 +1,8 @@
+Username: admin
+Email address: nguyentieuphung82@gmail.com
+Password:admin
+------------------------------------------------
+THE LOAI:
+    2-CÔNG NGHỆ
+    3-CUỘC SỐNG
+    4-ĐỘNG VẬT
