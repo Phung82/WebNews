@@ -15,7 +15,22 @@ CẤU HÌNH
   - Django (2.2, 3.0, 3.1,3.1.2)
   - Khuyến khích và chỉ hỗ trợ chính thức bản phát hành bản vá mới nhất của từng dòng Python và Django.
   - 
-  - 
+
+----------------------------------------------------------------
+# Tổng quat
+
+Khung công tác Django REST là một bộ công cụ mạnh mẽ và linh hoạt để xây dựng các API Web.
+
+Một số lý do bạn có thể muốn sử dụng khung REST:
+
+* [API có thể duyệt web] [hộp cát] là một chiến thắng rất lớn về khả năng sử dụng cho các nhà phát triển của bạn.
+* [Chính sách xác thực] [xác thực] bao gồm các gói tùy chọn cho [OAuth1a] [oauth1-section] và [OAuth2] [oauth2-section].
+* [Serialization] [serializers] hỗ trợ cả nguồn dữ liệu [ORM] [modelserializer-section] và [non-ORM] [serializer-section].
+* Có thể tùy chỉnh hoàn toàn - chỉ cần sử dụng [chế độ xem dựa trên chức năng thông thường] [chế độ xem chức năng] nếu bạn không cần [thêm] [chế độ xem chung] [mạnh mẽ] [chế độ xem] [tính năng] [bộ định tuyến].
+* [Tài liệu mở rộng] [docs] và [hỗ trợ cộng đồng tuyệt vời] [nhóm].
+
+Có một API mẫu trực tiếp cho mục đích thử nghiệm, [có sẵn tại đây] [hộp cát].
+
 ----------------------------------------------------------------
 
 Sử dụng khung công tác REST để xây dựng một API dựa trên mô hình đơn giản để truy cập người dùng và nhóm.
