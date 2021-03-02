@@ -18,3 +18,15 @@ CẤU HÌNH
 <img   src="https://github.com/Phung82/WebNews/blob/master/img/001-home.PNG" width="900" height="500"/>
 <p>Hình 1 Giao diện trang chủ</p>
 
+<img   src="https://github.com/Phung82/WebNews/blob/master/img/001-Ngua.PNG" width="900" height="600"/>
+<p>Hình 3 Một bài viết </p>
+
+<img   src="https://github.com/Phung82/WebNews/blob/master/img/001-Lienlac.PNG" width="900" height="600"/>
+<p>Hình 3 Giao diện trang liên lạc</p>
+
+<img   src="https://github.com/Phung82/WebNews/blob/master/img/001-theloai.PNG" width="900" height="600"/>
+<p>Hình 3 Giao diện trang quản trị - THỂ LOẠI</p>
+
+<img   src="https://github.com/Phung82/WebNews/blob/master/img/001-BaiViet.PNG" width="900" height="500"/>
+<p>Hình 3 Giao diện trang quản trị - BÀI VIẾTI</p>
+
