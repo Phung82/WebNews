@@ -19,6 +19,9 @@ CẤU HÌNH
 ----------------------------------------------------------------
 
 Sử dụng khung công tác REST để xây dựng một API dựa trên mô hình đơn giản để truy cập người dùng và nhóm.
+  - Username: admin
+  - Email address: nguyentieuphung82@gmail.com
+  - Password:admin
 
 Khởi động một dự án mới
 ```
