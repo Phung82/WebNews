@@ -15,6 +15,6 @@ CẤU HÌNH
   - [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
 
 ----------------------------------------------------------------
-<img   src="https://github.com/Phung82/WebNews/blob/master/img/001-home.PNG" width="600" height="400"/>
+<img   src="https://github.com/Phung82/WebNews/blob/master/img/001-home.PNG" width="900" height="500"/>
 <p>Hình 1 Giao diện trang chủ</p>
 
